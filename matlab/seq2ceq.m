@@ -9,7 +9,7 @@ function ceq = seq2ceq(seqarg, varargin)
 %
 % Input options with defaults
 %   nMax                  [1]            Only parse the first nMax blocks in the .seq file  [all blocks]
-%   ignoreSegmentLables   true/false     Treat each block as a segment. Use with caution! [false]
+%   ignoreSegmentLabels   true/false     Treat each block as a segment. Use with caution! [false]
 %   verbose               true/false     Print some info to the terminal [false]
 %
 % Output
